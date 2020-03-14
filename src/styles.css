@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.StyleTask {
+  font-size: 12px;
+  padding: 5px;
+  background-color: rgba(255, 174, 0, 0.637);
+  margin: 10px;
+}
+
+.StyleCategory {
+  background-color: lightyellow;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  width: 70px;
+  height: 40px;
+  margin: 10px;
+  background-color: lightblue;
+}
+
+ol,
+li {
+  list-style: none;
+  padding: 5px;
+}
